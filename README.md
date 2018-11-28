@@ -19,6 +19,7 @@ Sean recommended the book "Outwitting the Devil" by Napoleon Hill
 
 ### [Building the Machines](https://www.nakmuaynation.com/products/muay-thai-mastermind/categories/883286/posts/3110022) [🔝](#table-of-contents)
 * Machine Manual [template](/machines/iginfluencer.md)
+* Go to [exercises](/machines)
 
 ### [Setting the Vision](https://www.nakmuaynation.com/products/muay-thai-mastermind/categories/883286/posts/3034522) [🔝](#table-of-contents)
 *No notes*
