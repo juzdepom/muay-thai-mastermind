@@ -12,13 +12,13 @@
 
 ## Notebook
 
-### Building the Machines 2 [🔝](#table-of-contents)
+### [Building the Machines 2](#) [🔝](#table-of-contents)
 
 #### Group Call Notes [🔝](#table-of-contents)
 Sean recommended the book "Outwitting the Devil" by Napoleon Hill
 
 ### [Building the Machines](https://www.nakmuaynation.com/products/muay-thai-mastermind/categories/883286/posts/3110022) [🔝](#table-of-contents)
-*No notes*
+* Machine Manual [template](/machines/iginfluencer.md)
 
 ### [Setting the Vision](https://www.nakmuaynation.com/products/muay-thai-mastermind/categories/883286/posts/3034522) [🔝](#table-of-contents)
 *No notes*
